@@ -1,3 +1,2 @@
   He is a mental
-  This is to test revert command
-  testing again
+  Thsi is to test revert command
