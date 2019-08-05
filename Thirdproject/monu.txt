@@ -1,2 +1,1 @@
-  He is a mental
-  Thsi is to test revert command
+ He is a mental
